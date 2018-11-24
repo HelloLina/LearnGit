@@ -1,6 +1,9 @@
 package chapter01;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import dao.UserDao;
+
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 public class TestIoC {

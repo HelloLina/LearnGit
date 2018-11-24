@@ -1,4 +1,6 @@
-package chapter01;
+package service;
+
+import dao.UserDao;
 
 public class UserServiceImpl {
 	private UserDao userDao;

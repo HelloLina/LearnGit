@@ -1,4 +1,4 @@
-package chapter01;
+package dao;
 
 public interface UserDao {
 	public void say();

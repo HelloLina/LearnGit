@@ -8,5 +8,13 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/Users/lina/Desktop/LearnGit/未命名文件夹/chapter01/WebContent/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/Desktop/LearnGit/未命名文件夹/chapter01/WebContent/WEB-INF/lib/spring-beans-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/Desktop/LearnGit/未命名文件夹/chapter01/WebContent/WEB-INF/lib/spring-context-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/Desktop/LearnGit/未命名文件夹/chapter01/WebContent/WEB-INF/lib/spring-core-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/Desktop/LearnGit/未命名文件夹/chapter01/WebContent/WEB-INF/lib/spring-expression-5.1.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/Downloads/mybatis-3.4.6/mybatis-3.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/lina/eclipse-workspace/vue/WebContent/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

@@ -1,4 +1,4 @@
-package chapter01;
+package service;
 
 public interface UserService {
 	public void say();
